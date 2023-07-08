@@ -35,11 +35,16 @@ In this code I only worked on responsivity on the 2 breakpoints that were specif
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![1440x1080](https://github.com/Selim-ElChoueiter/News-Letter-Form-Frontend-Montor/blob/main/Screenshots/1440x1080.png)
+![1440x1080-Error](https://github.com/Selim-ElChoueiter/News-Letter-Form-Frontend-Montor/blob/main/Screenshots/1440x1080-error.png)
+![1440x1080-Success](https://github.com/Selim-ElChoueiter/News-Letter-Form-Frontend-Montor/blob/main/Screenshots/1440x1080-Success.png)
+![375x842](https://github.com/Selim-ElChoueiter/News-Letter-Form-Frontend-Montor/blob/main/Screenshots/375x842.png)
+![375x842-Error](https://github.com/Selim-ElChoueiter/News-Letter-Form-Frontend-Montor/blob/main/Screenshots/375x842-error.png)
+![375x842-Success](https://github.com/Selim-ElChoueiter/News-Letter-Form-Frontend-Montor/blob/main/Screenshots/375x842-success.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL]([https://your-live-site-url.com](https://resilient-unicorn-9a2afb.netlify.app/))
 
 ## My process
 
