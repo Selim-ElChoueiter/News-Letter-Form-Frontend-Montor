@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Note
 
-In this code I only worked on responsivity on the 2 breakpoints that were specified (1440px for Desktop and 375px for Mobile). More optimization for responsivity can be made at more breakpoints.
+In this code I added an additional breakpoint so the responsivity would look better; however, more optimization can be made on the level of responsivity for more breakpoints or better design and the breakpoint between 375px and 920px.
 
 ### Screenshot
 
