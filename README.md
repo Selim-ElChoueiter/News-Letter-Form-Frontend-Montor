@@ -52,7 +52,6 @@ In this code I added an additional breakpoint so the responsivity would look bet
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Javascript
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
