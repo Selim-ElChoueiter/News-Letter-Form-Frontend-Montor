@@ -199,6 +199,44 @@ table {
     border-radius: 15px;
   }
 
+  .success-container {
+    padding: 30px;
+    height: auto;
+    width: auto;
+    max-width: 430px;
+    position: initial;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .content-container {
+    position: initial;
+    transform: translate(0, 0);
+  }
+
+  .content-container > p {
+    margin: 20px 0px;
+  }
+
+  .button-container {
+    position: initial;
+  }
+
+  .success-text {
+    color: var(--color-dark-slate-grey);
+  }
+
+  .submit-button:hover {
+    background-image: linear-gradient(
+      to right,
+      var(--color-red-logo),
+      var(--color-orange-logo)
+    );
+
+    box-shadow: 0px 15px 50px -20px var(--color-orange-logo);
+  }
+
   .attribution {
     color: var(--color-white);
   }
@@ -279,7 +317,6 @@ table {
 
   .success-container {
     padding: 30px;
-
     height: auto;
     width: auto;
     max-width: 430px;
