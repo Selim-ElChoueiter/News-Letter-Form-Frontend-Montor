@@ -180,9 +180,7 @@ table {
 
 @media only screen and (min-width: 375px) {
 
-  form {
-    height: 100%;
-}
+
   
   .card {
     background-color: var(--color-white);
@@ -251,6 +249,10 @@ table {
 
 /*For desktop screens*/
 @media only screen and (min-width: 920px) {
+
+  form{
+    height: 100%;
+  }
   .card {
     background-color: var(--color-white);
     display: flex;
