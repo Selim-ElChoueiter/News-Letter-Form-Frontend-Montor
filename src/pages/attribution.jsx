@@ -1,6 +1,6 @@
 const Attribution = () => {
-  return (<></>
-    {/*<div class="attribution">
+  return (
+    <div class="attribution">
       <p>
         Challenge by{" "}
         <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
@@ -12,7 +12,7 @@ const Attribution = () => {
         </a>
         .
       </p>
-    </div>*/}
+    </div>
   );
 };
 
