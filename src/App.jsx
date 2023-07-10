@@ -54,7 +54,7 @@ function App() {
       {displaySuccess && (
         <Success email={email} handleDismiss={handleDismiss} />
       )}
-  
+  <Attribution/>
     </div>
   );
 }
